@@ -1,8 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SpiralizeMatrix;
 using System;
-
-
 namespace SprialUnitsTestProject
 {
     [TestClass]
