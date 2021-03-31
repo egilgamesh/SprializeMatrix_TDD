@@ -1,0 +1,6 @@
+C:\Users\hamdan\source\repos\SpiralTest\SpiralTest\bin\Debug\SpiralTest.exe.config
+C:\Users\hamdan\source\repos\SpiralTest\SpiralTest\bin\Debug\SpiralTest.exe
+C:\Users\hamdan\source\repos\SpiralTest\SpiralTest\bin\Debug\SpiralTest.pdb
+C:\Users\hamdan\source\repos\SpiralTest\SpiralTest\obj\Debug\SpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\hamdan\source\repos\SpiralTest\SpiralTest\obj\Debug\SpiralTest.exe
+C:\Users\hamdan\source\repos\SpiralTest\SpiralTest\obj\Debug\SpiralTest.pdb
