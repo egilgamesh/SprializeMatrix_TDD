@@ -55,7 +55,7 @@ namespace SprialUnitsTestProject
             CollectionAssert.AreEqual(Expected, Actual);
         }
         [TestMethod]
-        public void NotMatchSprialSerliazeMatrixWith53()
+        public void SprialSerliazeMatrixWith53()
         {
             int ArraySize = 53;
             var matrix = new Matrix(ArraySize);
