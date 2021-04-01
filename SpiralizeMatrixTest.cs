@@ -37,7 +37,7 @@ namespace SprialUnitsTestProject
             CollectionAssert.AreNotEqual(Expected, Actual);
         }
         [TestMethod]
-        public void NotMatchSprialSerliazeMatrixWith8()
+        public void SprialSerliazeMatrixWith8()
         {
             int ArraySize = 8;
             var matrix = new Matrix(ArraySize);
