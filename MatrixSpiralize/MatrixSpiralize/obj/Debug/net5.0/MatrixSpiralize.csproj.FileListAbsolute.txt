@@ -1,0 +1,16 @@
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\bin\Debug\net5.0\MatrixSpiralize.exe
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\bin\Debug\net5.0\MatrixSpiralize.deps.json
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\bin\Debug\net5.0\MatrixSpiralize.runtimeconfig.json
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\bin\Debug\net5.0\MatrixSpiralize.runtimeconfig.dev.json
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\bin\Debug\net5.0\MatrixSpiralize.dll
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\bin\Debug\net5.0\ref\MatrixSpiralize.dll
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\bin\Debug\net5.0\MatrixSpiralize.pdb
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\obj\Debug\net5.0\MatrixSpiralize.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\obj\Debug\net5.0\MatrixSpiralize.AssemblyInfoInputs.cache
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\obj\Debug\net5.0\MatrixSpiralize.AssemblyInfo.cs
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\obj\Debug\net5.0\MatrixSpiralize.csproj.CoreCompileInputs.cache
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\obj\Debug\net5.0\MatrixSpiralize.dll
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\obj\Debug\net5.0\ref\MatrixSpiralize.dll
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\obj\Debug\net5.0\MatrixSpiralize.pdb
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\obj\Debug\net5.0\MatrixSpiralize.genruntimeconfig.cache
+D:\projects\Benjamien\MatrixSpiralize\MatrixSpiralize\MatrixSpiralize\obj\Debug\net5.0\MatrixSpiralize.csprojAssemblyReference.cache
